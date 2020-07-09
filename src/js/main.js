@@ -1,3 +1,3 @@
 import "./slider"
 
-console.log(22);
+console.log(22222);
